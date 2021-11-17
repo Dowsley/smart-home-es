@@ -1,10 +1,10 @@
-import PokemonData from './components/PokemonData'
+import ControlPanel from './components/ControlPanel'
 
 const App = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <PokemonData />
+        <ControlPanel />
       </header>
     </div>
   )
